@@ -1,0 +1,12 @@
+https://beersmith.com/blog/2015/01/30/calculating-original-gravity-for-beer-recipe-design/
+https://byo.com/article/understanding-malt-spec-sheets-advanced-brewing/
+
+1.1 vol/gal * 5 gallons = 5.5 volumes * ½ ounce sucrose = 2.75 ounces of sucrose.o, by adding 2.75 ounces of sucrose to the beer, you increase the CO2 volume from 0.9 to 2.0, which was our target for the stout.
+https://byo.com/article/sweetness-brewing-sugars-how-to-use-them/
+
+Corn Sugar: 100% fermentability
+Percent Solids: 90%
+
+12.2 * 90% * 100% = x * 100% * 100%
+
+x = 12.2 * 0.90 / 1

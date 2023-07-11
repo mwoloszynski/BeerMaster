@@ -1,0 +1,48 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net6.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resources\closeBtn_default.png" />
+    <None Remove="Resources\closeBtn_MouseOver.png" />
+    <None Remove="Resources\Img\add.png" />
+    <None Remove="Resources\Img\delete.png" />
+    <None Remove="Resources\Img\fruits512.png" />
+    <None Remove="Resources\Img\hop32.png" />
+    <None Remove="Resources\Img\malt32.png" />
+    <None Remove="Resources\Img\malt512.png" />
+    <None Remove="Resources\Img\malt64.png" />
+    <None Remove="Resources\Img\powder512.png" />
+    <None Remove="Resources\Img\sugar512.png" />
+    <None Remove="Resources\Img\water512.png" />
+    <None Remove="Resources\Img\yeast512.png" />
+    <None Remove="Resources\logo.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.SQLite" Version="1.0.118" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resources\Img\add.png" />
+    <Resource Include="Resources\Img\closeBtn_default.png" />
+    <Resource Include="Resources\Img\closeBtn_MouseOver.png" />
+    <Resource Include="Resources\Img\delete.png" />
+    <Resource Include="Resources\Img\fruits512.png" />
+    <Resource Include="Resources\Img\hop32.png" />
+    <Resource Include="Resources\Img\malt32.png" />
+    <Resource Include="Resources\Img\malt512.png" />
+    <Resource Include="Resources\Img\malt64.png" />
+    <Resource Include="Resources\Img\powder512.png" />
+    <Resource Include="Resources\Img\sugar512.png" />
+    <Resource Include="Resources\Img\water512.png" />
+    <Resource Include="Resources\Img\yeast512.png" />
+    <Resource Include="Resources\logo.png" />
+  </ItemGroup>
+
+</Project>

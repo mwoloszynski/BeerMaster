@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>F:\Projekty\BeerMaster\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="Starter\Loader.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Starter\Starter.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\AddAdditiveView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\AddCarbonationView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\AddHopView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\AddMaltView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\AddMiscellaneousView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\AddWaterView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\AddYeastView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\BrewView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\HomeView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\IngredientsView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\IngredientsViews\AdditivesView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\IngredientsViews\CarbonationView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\IngredientsViews\HopsView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\IngredientsViews\MaltsView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\IngredientsViews\MiscellaneousView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\IngredientsViews\WatersView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\IngredientsViews\YeastsView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\MainWindowView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\RecipesView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\SettingsView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="View\StylesView.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Resources\Dict\Lang_en.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Resources\Dict\Lang_pl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Starter\Loader.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Starter\Starter.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\AddAdditiveView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\AddCarbonationView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\AddHopView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\AddMaltView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\AddMiscellaneousView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\AddWaterView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\AddYeastView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\BrewView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\HomeView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\IngredientsView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\IngredientsViews\AdditivesView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\IngredientsViews\CarbonationView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\IngredientsViews\HopsView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\IngredientsViews\MaltsView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\IngredientsViews\MiscellaneousView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\IngredientsViews\WatersView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\IngredientsViews\YeastsView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\MainWindowView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\RecipesView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\SettingsView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="View\StylesView.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
